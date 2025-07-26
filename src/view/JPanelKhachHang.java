@@ -378,3 +378,4 @@ public class JPanelKhachHang extends javax.swing.JPanel {
     private javax.swing.JTextField jTextField4;
     // End of variables declaration//GEN-END:variables
 }
+Nội dung cập nhật vào ngày 2025-07-26T16:30:00
