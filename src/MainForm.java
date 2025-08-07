@@ -7,7 +7,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import view.JDialogDangNhap;
-import view.JPanelBaoCao;
+import view.JPanelThongKe;
 import view.JPanelDanhMuc;
 import view.JPanelHang;
 import view.JPanelKhachHang;
@@ -280,7 +280,7 @@ private void initLogic() {
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
         // TODO add your handling code here:
-        showPanel(new JPanelBaoCao());
+        showPanel(new JPanelThongKe());
     }//GEN-LAST:event_jButton5ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
