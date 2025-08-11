@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
  *
  * @author Admin
  */
-public class JPanelBaoCao extends javax.swing.JPanel {
+public class JPanelThongKe extends javax.swing.JPanel {
 
     OrderDAO orderDAO = new OrderDAO();
     OrderDetailDAO detailDAO = new OrderDetailDAO();
@@ -26,7 +26,7 @@ public class JPanelBaoCao extends javax.swing.JPanel {
     /**
      * Creates new form JPanelBaoCao
      */
-    public JPanelBaoCao() {
+    public JPanelThongKe() {
         initComponents();
         init();
     }
